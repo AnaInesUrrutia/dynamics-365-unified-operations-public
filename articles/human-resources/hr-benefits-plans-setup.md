@@ -158,7 +158,7 @@ You can provide a description of the plan to help employees with their benefits 
 
 1. In the **Benefits management** workspace, under **Plans**, select **Benefit plans**.
 
-2. On the **Benefits** tab in the navigation bar, select **Plan description**.
+2. On the **Benefits** tab in the navigation bar, select **Plan details**.
 
 ## View flex credit programs
 
